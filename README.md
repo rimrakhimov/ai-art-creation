@@ -28,7 +28,7 @@ All used libraries are mentioned into **requirements.txt** file
 1. Using command `pip install -r requirements.txt` install all necessary libraries
 1. Add input image in the JPEG format into folder **images** with name 
         **input.jpg**
-1. Run a script from **code** folder which produce the output 
+1. Run a script from **code** directory which produce the output 
         with objects you want to use (arcs.py, acrs_engraving.py, letters.py, triangles.py)
 1. Wait until program terminates
 1. The output image will be located in the **results** folder 
